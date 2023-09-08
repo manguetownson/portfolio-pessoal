@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Projeto Barber backend spring",
+    subtitle: "JAVA; Spring",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    link: "https://reactbootcamp.com",
+      "O objetivo desse projeto foi construir uma api que comunicasse com cinco classes, não necessariamente com um frontend implementado, mas todos os métodos HTTP devidamente escritos e funcionando conectado ao banco de dados.",
+    link: "https://github.com/manguetownson/projeto-barber-backend-spring",
   },
   {
     title: "Carrinho de compras React",
@@ -15,20 +15,20 @@ export const projects = [
     link: "https://www.loom.com/share/840141c7cf134504a5e876d005e71c7f?sid=f31114f0-efd8-4204-a861-a574813fd996",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Classificação de imagens de tomografia do toráx com câncer",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "O objetivo desse projeto foi construir um sistema de classsificação em python, utilizando google colab e algumas bibliotecas como tensorflow e matplotlib para ter uma boa acurácia. No caso do treinamento desse modelo a acurácia média foi de 90%. O modelo é capaz de ler uma imagem e, baseado no treinamento, classifica-la como benigno, maligno ou normal.",
 
-    link: "https://reactbootcamp.com",
+    link: "https://colab.research.google.com/drive/1Y5QAQh8uOY2RxXSpy-0DjkhTNn7sVKvH?usp=sharing",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Buscador de países",
+    subtitle: "HTML, CSS, JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "O objetivo desse projeto foi praticar javascript básico consumindo uma api livre de dados geográficos de países do mundo, como população e pib, assim ao clicar na barra de escrita, quem navega poderá digitar o país desejado e receber essas informações, caso digite algo não esperado, será retornada uma mensagem de erro pedindo a digitação de um país válido.",
 
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/manguetownson/buscador-de-paises-deploy",
   },
 ];
 
